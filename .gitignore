@@ -1,0 +1,11 @@
+# Ignore compiled classes 
+.class
+
+# Ignore target file from maven
+/target
+
+# Ignore Eclipse project file
+.project
+
+#Ignore Eclipse classpath file
+.classpath
