@@ -9,3 +9,6 @@
 
 #Ignore Eclipse classpath file
 .classpath
+
+.settings
+.idea
