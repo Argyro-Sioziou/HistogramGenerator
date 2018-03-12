@@ -1,14 +1,6 @@
-# Ignore compiled classes 
 .class
-
-# Ignore target file from maven
-/target
-
-# Ignore Eclipse project file
+target
 .project
-
-#Ignore Eclipse classpath file
 .classpath
-
 .settings
 .idea
